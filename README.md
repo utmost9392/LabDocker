@@ -6,7 +6,7 @@
 
 2. Залогиниться в hub.docker.
 
-   ![image](https://github.com/user-attachments/assets/f9ffd2f5-3804-472f-ab4d-3360e145c406)
+   <img width="799" height="190" alt="image" src="https://github.com/user-attachments/assets/f0efcaf9-b95b-496e-a40b-713c1425b417" />
 
 3. Найти всё, что содержит слово «debian» в репозитории hub.docker.
 
